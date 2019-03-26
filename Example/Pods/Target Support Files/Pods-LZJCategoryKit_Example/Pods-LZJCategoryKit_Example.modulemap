@@ -1,0 +1,6 @@
+framework module Pods_LZJCategoryKit_Example {
+  umbrella header "Pods-LZJCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

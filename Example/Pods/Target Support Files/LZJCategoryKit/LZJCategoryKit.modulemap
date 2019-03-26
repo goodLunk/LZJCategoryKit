@@ -1,0 +1,6 @@
+framework module LZJCategoryKit {
+  umbrella header "LZJCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

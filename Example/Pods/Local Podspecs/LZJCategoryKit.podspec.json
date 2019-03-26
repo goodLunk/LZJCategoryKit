@@ -1,0 +1,22 @@
+{
+  "name": "LZJCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LZJCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/303305812@qq.com/LZJCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "303305812@qq.com": "303305812@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/303305812@qq.com/LZJCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LZJCategoryKit/Classes/**/*"
+}

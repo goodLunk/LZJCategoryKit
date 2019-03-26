@@ -1,0 +1,16 @@
+PODS:
+  - LZJCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - LZJCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  LZJCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZJCategoryKit: 2d3965a85f9b74cd9ad183bc82863c3492b9f067
+
+PODFILE CHECKSUM: ab2f59d37473704b32a7077e6c161ee92f7893f5
+
+COCOAPODS: 1.5.3
